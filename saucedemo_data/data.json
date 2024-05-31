@@ -1,0 +1,25 @@
+{
+    "urlLoginPage" : "https://www.saucedemo.com/",
+    "userStandard" : "standard_user",
+    "userLocked" : "locked_out_user",
+    "password" : "secret_sauce",
+    "highIntoLow": "hilo",
+    "lowIntoHigh": "lohi",
+    "oneItem":"1",
+    "twoItems": "2",
+    "firstName": "John",
+    "lastName": "Totoro",
+    "codePostal": "59000",
+    "messageValidationOrder": "Thank you for your order!",
+    "price":"$9.99",
+    "title":"Sauce Labs Bike Light",
+    "descritpion":"A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.",
+    "cartQuantity":"1"
+
+
+
+
+
+
+
+}
